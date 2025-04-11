@@ -1,0 +1,51 @@
+.pokemon-card {
+    background-color: rgba(33, 97, 17, 0.616) ;
+    box-shadow: black ;
+    padding: 50px;
+    vertical-align: auto;
+    width: 350px;  height: 500px;
+    border-radius: 50px;
+
+  }
+
+
+.pokemon-image {
+    max-width: 325px;
+    border-radius: 25px;
+    margin: 10px;
+
+}
+
+.pokemon-info {
+    background-color: rgb(151, 221, 198);
+    padding: 50px;
+    border-radius: 25px;
+    width: 235px;  height: 200px;
+
+}
+
+.pokemon-name {
+    font: comic; color: rgb(0, 0, 0);
+    max-width: 300px; max-height: 5px;
+
+}
+
+.pokemon-type {
+   font: comic; color: rgb(204, 0, 255);
+   margin: 20px;
+
+}
+
+.plant {
+    color: green;
+
+
+
+}
+
+.pokemon-description {
+    max-width: 300px; max-height: 5px;
+    font: comic; color: rgb(121, 110, 110);
+
+  
+}
